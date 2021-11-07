@@ -80,3 +80,12 @@ Equinix Metal is a global leader in colocation with more than 205 data centers i
 [https://osuosl.org](https://osuosl.org)   
   
 The lab, in partnership with the School of Electrical Engineering and Computer Science at Oregon State University, provides hosting for more than 160 projects, including those of worldwide leaders like the Apache Software Foundation, the Linux Foundation, and Drupal. Together, the OSL’s hosted sites deliver nearly 430 terabytes of information to people around the world every month. The most active organization of its kind, the OSL offers world-class hosting services, professional software development, and on-the-ground training for promising students interested in open source management and programming. OSUOSL provides a node to the project.
+
+# Other sppnsors
+
+## Gitpod
+
+[https://gitpod.io](https://gitpod.io)
+
+Gitpod allows developers to spin up fresh, automated dev environments
+for each task, in the cloud, in seconds. Gitpod has generously granted our volunteers with unlimited hours on their platform. We plan to use Gitpod to develop our public-facing websites, to have a standardized dev environment.
